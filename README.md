@@ -1,3 +1,4 @@
+# Content:
 - Open Shortest Path First (OSPF)
 - Point-to-Point network topology
 
@@ -8,4 +9,4 @@
 - You need to Install { sudo apt-get install mercurial && sudo apt-get install qt5-default } (Before you can configure NetAnim)
 - To build NetAnim inside NS3 Folder Open netanim folder and then run { cd netanim && make clean && qmake NetAnim.pro && make }
 
-All copyrights reserved for thoses people :) 
+All copyrights reserved for those people :) 
